@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(184, 76, 76);
+}
+
+h1 {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
